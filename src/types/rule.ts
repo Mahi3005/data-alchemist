@@ -21,6 +21,7 @@ export interface AiRule {
   condition: string;
   action: string;
   priority: number;
+  
 }
 
 
